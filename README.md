@@ -1,5 +1,7 @@
 # Sabrina Sansó | El Puente Técnico
 
+![Portada bitacorait](sabrina sanso_banner.jpg "SABRINA SANSO")
+
 Analista Funcional Técnica especializada en transformar requerimientos ambiguos en especificaciones rigurosas que los equipos de desarrollo pueden construir sin adivinar.
 
 Si tu equipo arranca el sprint sin saber exactamente qué construir, el problema no es el equipo es lo que hay antes del sprint.

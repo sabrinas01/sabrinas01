@@ -1,6 +1,8 @@
 # Sabrina Sansó | El Puente Técnico
 
-![Portada bitacorait](sabrina sanso_banner.jpg "SABRINA SANSO")
+![El Puente Técnico — Transformación de requerimiento caótico a especificación clara](./sabrina_sanso_banner.jpg)
+
+# Sabrina Sansó | El Puente Técnico
 
 Analista Funcional Técnica especializada en transformar requerimientos ambiguos en especificaciones rigurosas que los equipos de desarrollo pueden construir sin adivinar.
 

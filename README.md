@@ -1,4 +1,4 @@
-![El Puente Técnico](./assets/sabrina_sanso_banner.jpg)
+![El Puente Técnico](https://github.com/sabrinas01/sabrinas01/blob/main/assets/sabrina_sanso_banner.jpg)
 
 # Sabrina Sansó | El Puente Técnico 🌉
 

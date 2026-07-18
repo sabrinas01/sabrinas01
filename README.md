@@ -81,10 +81,6 @@ Comparto mi bitácora técnica en Bitacora IT:
 
 ---
 
-## Testimonios
-
-Disponibles en LinkedIn. 
----
 
 **¿Tu equipo necesita que alguien traduzca el caos en especificaciones rigurosas?** Conectemos.
 

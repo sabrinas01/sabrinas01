@@ -80,9 +80,6 @@ Comparto mi bitácora técnica en Bitacora IT:
 - **Instagram:** [@bitacorait](https://www.instagram.com/bitacorait/) — Contenido visual, paso a paso, NFA en público
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinasanso/)
-[![Instagram](https://github.com/sabrinas01/sabrinas01/blob/main/assets/ig.jpg)](https://www.instagram.com/bitacorait/)
-
 ---
 
 

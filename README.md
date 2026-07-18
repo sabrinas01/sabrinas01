@@ -1,5 +1,5 @@
 
-![El Puente Técnico](./assets/sabrinasanso_banner.jpg)
+![El Puente Técnico](./assets/SANSOSABRINA_BITACORAIT.jpg)
 
 
 # Sabrina Sansó | El Puente Técnico 🌉

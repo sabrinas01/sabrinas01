@@ -1,6 +1,4 @@
-# Sabrina Sansó | El Puente Técnico
-
-![El Puente Técnico — Transformación de requerimiento caótico a especificación clara](![El Puente Técnico](./assets/sabrina_sanso_banner.jpg))
+![El Puente Técnico](./sabrina_sanso_banner.jpg)
 
 # Sabrina Sansó | El Puente Técnico
 

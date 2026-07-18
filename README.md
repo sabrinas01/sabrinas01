@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![El Puente Técnico](./assets/sabrinasanso_banner.jpg)
+=======
+![El Puente Técnico](https://github.com/sabrinas01/sabrinas01/blob/main/assets/sabrina_sanso_banner.jpg)
+>>>>>>> fc1d5697500399aa2e9b3dbccf078cc1c57b2615
 
 # Sabrina Sansó | El Puente Técnico 🌉
 

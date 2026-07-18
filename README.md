@@ -1,6 +1,6 @@
-![El Puente Técnico](./assets/sabrina_sanso_banner.jpg)
+![El Puente Técnico](![./assets/sabrina_sanso_banner.jpg](https://github.com/sabrinas01/sabrinas01/blob/8aec486c876243b30eaf3225b28a00d424337e16/assets/sabrina%20sanso_banner.jpg))
 
-# Sabrina Sansó | El Puente Técnico
+# Sabrina Sansó | El Puente Técnico 🌉
 
 Analista Funcional Técnica especializada en transformar requerimientos ambiguos en especificaciones rigurosas que los equipos de desarrollo pueden construir sin adivinar.
 
@@ -19,7 +19,7 @@ Trabajo con startups caóticas y equipos en transformación digital que necesita
 
 ---
 
-## Proyecto Destacado: Notion Flow Auditor (NFA)
+## 🌟Proyecto Destacado: Notion Flow Auditor (NFA)
 
 **[Ver repositorio →](https://github.com/sabrinas01/Flow_Auditor)**
 
@@ -37,13 +37,13 @@ NFA es una herramienta que comenzó como una necesidad personal (auditar mi prop
 
 Trabajo remoto en LATAM. Proyectos desde 2-4 semanas hasta relaciones de soporte continuo.
 
-**Diagnóstico Funcional**
+**💚Diagnóstico Funcional**
 Auditoría de procesos, identificación de ambigüedades en requerimientos, mapeo de flujos técnicos, recomendaciones de especificación.
 
-**Ingeniería de Backlog (Sprint Ready)**
+**💚Ingeniería de Backlog (Sprint Ready)**
 Transformación de historias caóticas en user stories técnicas, documentación de APIs, criterios de aceptación rigurosos, BPMN ejecutable. Tu backlog sale con especificación lista para que dev construya sin fricciones.
 
-**Soporte Funcional Continuo**
+**💚Soporte Funcional Continuo**
 Acompañamiento semanal o bi-semanal: validación de requerimientos en tiempo real, sesiones de especificación, clarificación técnica, documentación viva que evoluciona con el sprint.
 
 ---
@@ -62,7 +62,7 @@ Acompañamiento semanal o bi-semanal: validación de requerimientos en tiempo re
 
 ## Cómo Trabajar Conmigo
 
-**Ubicación:** San Juan, Argentina (GMT-3) — Remota, con opción híbrida en San Juan y Córdoba
+**Ubicación:** San Juan, Argentina — Remota, con opción híbrida en San Juan, Mendoza y Córdoba
 
 **Modalidades:** Proyecto puntual · Soporte por sprint · Retainer mensual
 

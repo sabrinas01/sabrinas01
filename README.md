@@ -71,7 +71,7 @@ Acompañamiento semanal o bi-semanal: validación de requerimientos en tiempo re
 **Modalidades:** Proyecto puntual · Soporte por sprint · Retainer mensual
 
 **Primer paso:** Agendemos una sesión de diagnostico SIN CARGO 
-- [Haz clic acá] (https://calendly.com/sanso-s) 
+- **[Haz clic acá] (https://calendly.com/sanso-s)**
 ---
 
 ## Recursos Públicos

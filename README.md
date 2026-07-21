@@ -70,7 +70,8 @@ Acompañamiento semanal o bi-semanal: validación de requerimientos en tiempo re
 
 **Modalidades:** Proyecto puntual · Soporte por sprint · Retainer mensual
 
-**Primer paso:** Conectá conmigo en LinkedIn (https://www.linkedin.com/in/sabrinasanso/) o escribí a mi email (sanso.s@outlook.com). Empezamos con una conversación: entiendo dónde duele, qué tipo de especificación necesitás, cuál es tu equipo.
+**Primer paso:** Agendemos una sesión de diagnostico SIN CARGO 
+- [Haz clic acá] (https://calendly.com/sanso-s) 
 ---
 
 ## Recursos Públicos
